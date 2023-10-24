@@ -70,3 +70,6 @@ To gain deeper insights into the impact of specific changes, consider conducting
 Given the variations in user behavior throughout the day, consider implementing time-based strategies. Tailor promotions, product recommendations, or content to match the preferences and behaviors of users during specific time segments.
 
 This analysis lays the groundwork for understanding user behavior's impact on revenue and optimizing the customer experience. By implementing these recommendations and staying attuned to evolving trends, you can enhance the user experience and drive revenue growth.
+
+You can find my dashboard here:
+https://public.tableau.com/app/profile/karolina.lavrukaityte/viz/ProductAnalystGradedTaskv6/ProductAnalystDashboard 
